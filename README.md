@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike! Please explore my portfolio to see my projects.</h1>
+<h1>Hi, I'm Mike! Explore my portfolio to see my projects.</h1>
 
 <h2>👨‍💻 Data Analysis Projects</h2>
 
