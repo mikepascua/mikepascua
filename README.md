@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects</h2>
 
 - <b>Data Analysis</b>
-  - [Cyclistic Bike-Share Case Study](https://github.com/mikepascua/CyclisticBikeShare))
+  - [Cyclistic Bike-Share Case Study](https://github.com/mikepascua/CyclisticBikeShare)
 - <b>Business Intelligence</b>
   - [Google Fiber Dashboard Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
