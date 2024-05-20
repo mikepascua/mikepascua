@@ -5,7 +5,7 @@
 - <b>Data Analysis</b>
   - [Cyclistic Bike-Share Case Study](https://github.com/mikepascua/CyclisticBikeShare)
 - <b>Business Intelligence</b>
-  - [Google Fiber Dashboard Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Google Fiber Dashboard Project](https://github.com/mikepascua/GoogleFiberDashboard)
 
 
 <h2>📄 Professional Certifications</h2>
