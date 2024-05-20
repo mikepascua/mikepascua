@@ -3,9 +3,9 @@
 <h2>👨‍💻 Data Analysis Projects</h2>
 
 - <b>Data Analysis</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cyclistic Bike-Share Case Study](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Business Intelligence</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Google Fiber Dashboard Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 
 <h2>📄 Professional Certifications</h2>
